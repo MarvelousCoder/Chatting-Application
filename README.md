@@ -77,4 +77,5 @@ Feel free to contribute and enhance the functionality of the chatting applicatio
 
 ## Project Credits:
 
+Mehul S. Katwe: https://www.linkedin.com/in/mehul-katwe-746439285/
 Rafan R. Nadiadwala: https://www.linkedin.com/in/rafan-nadiadwala-062b70262
